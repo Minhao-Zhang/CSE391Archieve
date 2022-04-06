@@ -2,9 +2,9 @@
 # Do NOT remove or modify the question numbers.
 # Each answer should be kept on a single line.
 
-1.
-2.
-3.
-4.
-5.
-6.
+1. vim
+2. vim animals.txt
+3. $animal
+4. 0animal
+5. :w
+6. :q
